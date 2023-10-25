@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\vjezbaPeta\bin\Debug\vjezbaPeta.exe.config
+C:\Users\ucenik\source\repos\vjezbaPeta\bin\Debug\vjezbaPeta.exe
+C:\Users\ucenik\source\repos\vjezbaPeta\bin\Debug\vjezbaPeta.pdb
+C:\Users\ucenik\source\repos\vjezbaPeta\obj\Debug\vjezbaPeta.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\vjezbaPeta\obj\Debug\vjezbaPeta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\vjezbaPeta\obj\Debug\vjezbaPeta.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\vjezbaPeta\obj\Debug\vjezbaPeta.exe
+C:\Users\ucenik\source\repos\vjezbaPeta\obj\Debug\vjezbaPeta.pdb
